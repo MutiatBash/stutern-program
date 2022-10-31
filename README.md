@@ -1,0 +1,4 @@
+My name is Bashua Mutiat Oluwafolakemi. I'm a creative fashion designer, entry level ui/ux designer and front-end web developer. I enjoy building appealing and user-friendly websites leading to desired results. As a strong advocate of mental health, i hope to use technology to solve mental health problems and improve overall wellbeing of individuals. My goal as a woman in tech is to build sustainable webites that will serve the community at large. As a person who is open to learning and new experiences, over the course of two years, I have acquired consistently sought for ways to improve my skills. I am also proficient in the use of basic design softwares and tools such as adobe illustrator ,
+photoshop, figma and canva. I pay close attention to details and I’m always ready to
+take on any challenge with the aim of delivering optimal results.
+
