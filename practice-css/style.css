@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+h1{
+    font-size: 18px;
+}
+#section1{
+    margin: 70px;
+    padding: 30px;
+    border: 5px inset rgb(183, 248, 167) ;
+}
+#section1 p{
+    color: green;
+    font-size: 14px;
+}
+#section2{
+    margin: 70px;
+    padding: 30px;
+    border: 5px double rgb(248, 191, 191);
+}
+#section2 p{
+    color: red;
+    font-size: 14px;
+}
+#section3{
+    margin: 70px;
+    padding: 30px;
+    border: 5px groove rgb(213, 213, 231);
+}
+#section3 p{
+    color: blue;
+    font-size: 14px;
+}
